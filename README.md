@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Nata's github stats](https://github-readme-stats.vercel.app/api?username=nitchell&count_private=true&show_icons=true&theme=dracula)](https://github.com/nitchell/github-readme-stats)
+
 <!--
 **nitchell/nitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
