@@ -1,4 +1,4 @@
-### Hello there, welcome to my profile👋
+<img src="https://raw.githubusercontent.com/nitchell/nitchell/master/header.png" alt="Hello!">
 
 💻  I'm Writing tech blog posts over at **[bluemberg](https://bluemberg.netlify.app/)**.
 
