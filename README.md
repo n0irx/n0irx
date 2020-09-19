@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/nitchell/nitchell/master/header.png" alt="Hello!">
 
 ## About Me
-- 💻 Writing tech blog posts at https://bluemberg.netlify.app/. 
+- 💻   Writing tech blog posts at https://bluemberg.netlify.app/. 
 
 
 ## Github Stats
@@ -10,8 +10,6 @@
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
   <p align="center">
     <a href="https://twitter.com/natyourbae" alt="Twitter"><img src="https://raw.githubusercontent.com/nitchell/nitchell/master/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/nataprawiraf/" alt="Linkedin"><img src="https://raw.githubusercontent.com/nitchell/nitchell/master/readme/linkedin-fill.svg"></a>
