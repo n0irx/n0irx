@@ -1,9 +1,14 @@
 <img src="https://raw.githubusercontent.com/nitchell/nitchell/master/header.png" alt="Hello!">
 
 <center>
-  ## About Me
-  💻  I'm Writing tech blog posts at https://bluemberg.netlify.app/.
-
+  <h2> About Me </h2>
+  
+  <ul>
+    <li>
+      💻  I'm Writing tech blog posts at https://bluemberg.netlify.app/.
+    </li>
+  </ul>
+  
   <br>
   <br>
   <br>
