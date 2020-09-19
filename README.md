@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/nitchell/nitchell/master/header.png" alt="Hello!">
 
 <center>
-  💻  I'm Writing tech blog posts over at [bluemberg](https://bluemberg.netlify.app/).
+  💻  I'm Writing tech blog posts over at [Bluemberg](https://bluemberg.netlify.app/).
 
   <br>
   <br>
