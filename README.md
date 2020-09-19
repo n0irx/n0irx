@@ -4,9 +4,7 @@
   <h2> About Me </h2>
   
   <ul>
-    <li>
-      💻  I'm Writing tech blog posts at https://bluemberg.netlify.app/.
-    </li>
+    <li>Writing tech blog posts at https://bluemberg.netlify.app/. </li>
   </ul>
   
   <br>
