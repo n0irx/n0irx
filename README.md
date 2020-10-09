@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/n0irx/n0irx/master/header.png" alt="Hello!">
 
 ## About Me
+- 
 - 💻   Writing tech blog posts at https://n0irx.fun/ 
 
-## Languages
+## Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -11,16 +12,21 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-## Technologies
+
+## Technologies & Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Mac](https://img.shields.io/badge/-Mac-000?&logo=Mac)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Snyk](https://img.shields.io/badge/-Snyk-000?&logo=Snyk)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
 <!-- wi*quL3fcV -->
 
