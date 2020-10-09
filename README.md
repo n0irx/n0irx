@@ -7,16 +7,18 @@ Hi I'm Fachry Nataprawira
 
 ## Languages & Frameworks
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C#-000?&logo=C#logoColor=00599C)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
