@@ -18,7 +18,6 @@ Hi I'm Fachry Nataprawira
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
 ## Technologies & Tools
@@ -26,13 +25,9 @@ Hi I'm Fachry Nataprawira
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
-![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Snyk](https://img.shields.io/badge/-Snyk-000?&logo=Snyk)
-![NginX](https://img.shields.io/badge/-NginX-000?&logo=NginX)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)\
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
 <!-- wi*quL3fcV -->
 
 ## Github Stats
