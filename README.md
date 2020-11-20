@@ -2,7 +2,6 @@
 ## About Me
 Hi I'm Fachry Nataprawira
 - 📝    I'm currently writing tech blog posts at https://n0irx.fun/ 
-- 📦    I'm currently developing [Syphon](https://github.com/n0irx/syphon) <- you can contribute!
 - 😀    I'm interested in: Cyber Security, Software Engineer, Software Architecture & Infrasctructure
 
 ## Languages & Frameworks
