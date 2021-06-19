@@ -29,10 +29,6 @@ Hi I'm Fachry Nataprawira
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 <!-- wi*quL3fcV -->
 
-## Github Stats
-  [![My's github stats](https://github-readme-stats.vercel.app/api?username=n0irx&count_private=true&show_icons=true&theme=dracula)](https://github.com/n0irx/github-readme-stats)
-
-
 <hr>
 <p align="center">
   <p align="center">
